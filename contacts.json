@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Ankit",
+        "phone": "1111111111",
+        "email": "ankit@gmail.com"
+    },
+    {
+        "name": "Vinay",
+        "phone": "3333333333",
+        "email": "bcd@gmail.com"
+    },
+    {
+        "name": "Nishant",
+        "phone": "4444444444",
+        "email": "bca@gmail.com"
+    },
+    {
+        "name": "ansh",
+        "phone": "8855885588",
+        "email": "ansh@gmail.com"
+    },
+    {
+        "name": "Ravi",
+        "phone": "7575757575",
+        "email": "ravi@gmail.com"
+    }
+]
